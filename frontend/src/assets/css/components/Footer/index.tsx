@@ -3,7 +3,7 @@ const Footer = () => {
     <footer className="footer mt-auto py-3 bg-dark">
       <div className="container">
         <p className="text-light">
-          App desenvolvido por{" "}
+          App reproduzido por{" "}
           <a
             href="https://github.com/jajunio333"
             target="_blank"
